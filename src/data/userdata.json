@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "password123"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "password": "password456"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "password": "password789"
+  },
+  {
+    "id": 4,
+    "name": "Alice Williams",
+    "email": "alice.williams@example.com",
+    "password": "alice123"
+  },
+  {
+    "id": 5,
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "password": "davidpass"
+  },
+  {
+    "id": 6,
+    "name": "Carol Taylor",
+    "email": "carol.taylor@example.com",
+    "password": "carol321"
+  },
+  {
+    "id": 7,
+    "name": "Eve Davis",
+    "email": "eve.davis@example.com",
+    "password": "evepassword"
+  },
+  {
+    "id": 8,
+    "name": "Frank Wilson",
+    "email": "frank.wilson@example.com",
+    "password": "frankpass123"
+  },
+  {
+    "id": 9,
+    "name": "Grace Lee",
+    "email": "grace.lee@example.com",
+    "password": "grace789"
+  },
+  {
+    "id": 10,
+    "name": "Henry Miller",
+    "email": "henry.miller@example.com",
+    "password": "henry456"
+  }
+]

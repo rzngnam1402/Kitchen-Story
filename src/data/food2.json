@@ -1,0 +1,164 @@
+[
+  {
+    "id": 12,
+    "name": {
+      "english": "Pho",
+      "japanese": "フォー",
+      "chinese": "河粉",
+      "french": "Pho"
+    },
+    "type": ["Vietnamese", "Soup"],
+    "nutritions": {
+      "Calories": 350,
+      "Cholesterol": 30,
+      "Natri": 20,
+      "Kali": 50,
+      "Protein": 16,
+      "Carbohydrat": 40
+    }
+  },
+  {
+    "id": 13,
+    "name": {
+      "english": "Peking Duck",
+      "japanese": "北京ダック",
+      "chinese": "北京烤鸭",
+      "french": "Canard laqué"
+    },
+    "type": ["Chinese", "Meat"],
+    "nutritions": {
+      "Calories": 400,
+      "Cholesterol": 80,
+      "Natri": 70,
+      "Kali": 60,
+      "Protein": 20,
+      "Carbohydrat": 25
+    }
+  },
+  {
+    "id": 14,
+    "name": {
+      "english": "Ceviche",
+      "japanese": "セビーチェ",
+      "chinese": "酸橘汁腌鱼",
+      "french": "Ceviche"
+    },
+    "type": ["Peruvian", "Seafood"],
+    "nutritions": {
+      "Calories": 150,
+      "Cholesterol": 40,
+      "Natri": 15,
+      "Kali": 10,
+      "Protein": 15,
+      "Carbohydrat": 5
+    }
+  },
+  {
+    "id": 15,
+    "name": {
+      "english": "Falafel",
+      "japanese": "ファラフェル",
+      "chinese": "沙拉尔",
+      "french": "Falafel"
+    },
+    "type": ["Middle Eastern", "Vegetarian"],
+    "nutritions": {
+      "Calories": 333,
+      "Cholesterol": 0,
+      "Natri": 19,
+      "Kali": 50,
+      "Protein": 13,
+      "Carbohydrat": 31
+    }
+  },
+  {
+    "id": 16,
+    "name": {
+      "english": "Lasagna",
+      "japanese": "ラザニア",
+      "chinese": "千层面",
+      "french": "Lasagne"
+    },
+    "type": ["Italian", "Pasta"],
+    "nutritions": {
+      "Calories": 350,
+      "Cholesterol": 50,
+      "Natri": 55,
+      "Kali": 45,
+      "Protein": 21,
+      "Carbohydrat": 40
+    }
+  },
+  {
+    "id": 17,
+    "name": {
+      "english": "Bibimbap",
+      "japanese": "ビビンバ",
+      "chinese": "拌饭",
+      "french": "Bibimbap"
+    },
+    "type": ["Korean", "Rice Dish"],
+    "nutritions": {
+      "Calories": 490,
+      "Cholesterol": 75,
+      "Natri": 90,
+      "Kali": 80,
+      "Protein": 19,
+      "Carbohydrat": 72
+    }
+  },
+  {
+    "id": 18,
+    "name": {
+      "english": "Churros",
+      "japanese": "チュロス",
+      "chinese": "吉事果",
+      "french": "Churros"
+    },
+    "type": ["Spanish", "Dessert"],
+    "nutritions": {
+      "Calories": 450,
+      "Cholesterol": 30,
+      "Natri": 40,
+      "Kali": 20,
+      "Protein": 6,
+      "Carbohydrat": 51
+    }
+  },
+  {
+    "id": 19,
+    "name": {
+      "english": "Poutine",
+      "japanese": "プーティン",
+      "chinese": "肉汁乳酪薯条",
+      "french": "Poutine"
+    },
+    "type": ["Canadian", "Fast Food"],
+    "nutritions": {
+      "Calories": 740,
+      "Cholesterol": 60,
+      "Natri": 90,
+      "Kali": 80,
+      "Protein": 21,
+      "Carbohydrat": 62
+    }
+  },
+  {
+    "id": 20,
+    "name": {
+      "english": "Goulash",
+      "japanese": "グヤーシュ",
+      "chinese": "匈牙利炖牛肉",
+      "french": "Goulash"
+    },
+    "type": ["Hungarian", "Stew"],
+    "nutritions": {
+      "Calories": 280,
+      "Cholesterol": 70,
+      "Natri": 40,
+      "Kali": 50,
+      "Protein": 20,
+      "Carbohydrat": 20
+    }
+  }
+]

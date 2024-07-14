@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "english": "Pizza",
+      "japanese": "Pizza",
+      "chinese": "Pizza",
+      "french": "Pizza"
+    },
+    "type": ["Italian", "Pie"],
+    "nutritions": {
+      "Calories": 266,
+      "Cholesterol": 49,
+      "Natri": 59.6,
+      "Kali": 65,
+      "Protein": 11,
+      "Carbohydrat": 12
+    },
+    "price": 8.99
+  },
+  {
+    "id": 2,
+    "name": {
+      "english": "Sushi",
+      "japanese": "寿司",
+      "chinese": "寿司",
+      "french": "Sushi"
+    },
+    "type": ["Japanese", "Seafood"],
+    "nutritions": {
+      "Calories": 200,
+      "Cholesterol": 25,
+      "Natri": 20,
+      "Kali": 10,
+      "Protein": 14,
+      "Carbohydrat": 27
+    },
+    "price": 12.5
+  },
+  {
+    "id": 3,
+    "name": {
+      "english": "Hamburger",
+      "japanese": "ハンバーガー",
+      "chinese": "汉堡包",
+      "french": "Hamburger"
+    },
+    "type": ["American", "Sandwich"],
+    "nutritions": {
+      "Calories": 295,
+      "Cholesterol": 55,
+      "Natri": 70,
+      "Kali": 100,
+      "Protein": 17,
+      "Carbohydrat": 30
+    },
+    "price": 5.99
+  },
+  {
+    "id": 4,
+    "name": {
+      "english": "Pasta",
+      "japanese": "パスタ",
+      "chinese": "意大利面",
+      "french": "Pâtes"
+    },
+    "type": ["Italian", "Noodles"],
+    "nutritions": {
+      "Calories": 131,
+      "Cholesterol": 0,
+      "Natri": 1,
+      "Kali": 24,
+      "Protein": 5,
+      "Carbohydrat": 25
+    },
+    "price": 7.5
+  },
+  {
+    "id": 5,
+    "name": {
+      "english": "Tacos",
+      "japanese": "タコス",
+      "chinese": "塔可",
+      "french": "Tacos"
+    },
+    "type": ["Mexican", "Street Food"],
+    "nutritions": {
+      "Calories": 226,
+      "Cholesterol": 35,
+      "Natri": 56,
+      "Kali": 48,
+      "Protein": 9,
+      "Carbohydrat": 20
+    },
+    "price": 3.99
+  },
+  {
+    "id": 6,
+    "name": {
+      "english": "Biryani",
+      "japanese": "ビリヤニ",
+      "chinese": "香饭",
+      "french": "Biryani"
+    },
+    "type": ["Indian", "Rice Dish"],
+    "nutritions": {
+      "Calories": 305,
+      "Cholesterol": 65,
+      "Natri": 45,
+      "Kali": 70,
+      "Protein": 15,
+      "Carbohydrat": 40
+    },
+    "price": 9.99
+  },
+  {
+    "id": 7,
+    "name": {
+      "english": "Paella",
+      "japanese": "パエリア",
+      "chinese": "西班牙海鲜饭",
+      "french": "Paella"
+    },
+    "type": ["Spanish", "Seafood"],
+    "nutritions": {
+      "Calories": 250,
+      "Cholesterol": 30,
+      "Natri": 35,
+      "Kali": 20,
+      "Protein": 12,
+      "Carbohydrat": 34
+    },
+    "price": 11.0
+  },
+  {
+    "id": 8,
+    "name": {
+      "english": "Croissant",
+      "japanese": "クロワッサン",
+      "chinese": "羊角面包",
+      "french": "Croissant"
+    },
+    "type": ["French", "Pastry"],
+    "nutritions": {
+      "Calories": 231,
+      "Cholesterol": 50,
+      "Natri": 45,
+      "Kali": 23,
+      "Protein": 4,
+      "Carbohydrat": 26
+    },
+    "price": 2.5
+  },
+  {
+    "id": 9,
+    "name": {
+      "english": "Dim Sum",
+      "japanese": "点心",
+      "chinese": "点心",
+      "french": "Dim Sum"
+    },
+    "type": ["Chinese", "Snack"],
+    "nutritions": {
+      "Calories": 150,
+      "Cholesterol": 10,
+      "Natri": 20,
+      "Kali": 15,
+      "Protein": 6,
+      "Carbohydrat": 18
+    },
+    "price": 5.0
+  },
+  {
+    "id": 10,
+    "name": {
+      "english": "Shawarma",
+      "japanese": "シャワルマ",
+      "chinese": "沙威玛",
+      "french": "Shawarma"
+    },
+    "type": ["Middle Eastern", "Street Food"],
+    "nutritions": {
+      "Calories": 330,
+      "Cholesterol": 40,
+      "Natri": 60,
+      "Kali": 30,
+      "Protein": 18,
+      "Carbohydrat": 29
+    },
+    "price": 6.5
+  },
+  {
+    "id": 11,
+    "name": {
+      "english": "Kimchi",
+      "japanese": "キムチ",
+      "chinese": "泡菜",
+      "french": "Kimchi"
+    },
+    "type": ["Korean", "Fermented"],
+    "nutritions": {
+      "Calories": 15,
+      "Cholesterol": 0,
+      "Natri": 10,
+      "Kali": 30,
+      "Protein": 1,
+      "Carbohydrat": 2
+    },
+    "price": 3.0
+  }
+]
